@@ -17,12 +17,4 @@ Dự án này mô phỏng sự lây lan của dịch bệnh trong một khu dân
 - 🏠 Focused on residential-scale simulation  
   Tập trung vào quy mô khu dân cư  
 
----
 
-## 🚀 How to Run / Cách chạy dự án
-
-### 1. Clone the repository / Sao chép repository
-
-```bash
-git clone https://github.com/your-username/seir-community-model.git
-cd seir-community-model
